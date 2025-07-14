@@ -18,13 +18,13 @@ Created by **Muhammad Aftab** (@aftabcodesnippets).
 
 > *(You can add emulator screenshots here later)*  
 > Example:  
-> `![Calculator Screenshot](screenshot.png)`
+![Calculator Screenshot](screenshot.png)
 
 ---
 
 ## 🛠️ Built With
 
-- **Flutter**  
+- **Flutter**
 - **Dart**
 
 ---

@@ -1,16 +1,40 @@
-# nf
+# Simple Calculator App
 
-A new Flutter project.
+A clean and simple calculator app built using Flutter.  
+Created by **Muhammad Aftab** (@aftabcodesnippets).
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Basic arithmetic operations: ➕ ➖ ✖️ ➗
+- Custom-styled buttons
+- Responsive UI for different screen sizes
+- Works on Android, iOS, and emulators
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+> *(You can add emulator screenshots here later)*  
+> Example:  
+> `![Calculator Screenshot](screenshot.png)`
+
+---
+
+## 🛠️ Built With
+
+- **Flutter**  
+- **Dart**
+
+---
+
+## ▶️ Getting Started
+
+To run this app locally:
+
+```bash
+git clone https://github.com/aftabcodesnippets/simple_calculator.git
+cd simple_calculator
+flutter pub get
+flutter run
